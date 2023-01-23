@@ -1,0 +1,10 @@
+let questions = ["What is the JavaScript equivalent of “Hello World”?",
+"Which of these is a valid JavaScript variable name?",
+"What is the correct way to write a JavaScript array?",
+"How do you define a function in JavaScript?",
+"What is the output of the following JavaScript code?",
+"What is the output of the following JavaScript code?",
+"What is the purpose of the Math.round() function?",
+"Which of these is a JavaScript looping statement?",
+"Which of these functions will convert a string to a number?", 
+"What is the output of the following JavaScript code?"]
